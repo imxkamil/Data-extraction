@@ -1,0 +1,884 @@
+[
+    {
+        "NAZWA": "BOGART SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W UPADŁOŚCI w Nowej Wsi Małej",
+        "PESEL": "XD",
+        "NIP": "7393070709",
+        "REGON": "XD",
+        "KRS": "0000177223"
+    },
+    {
+        "NAZWA": "LIMBEX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W UPADŁOŚCI w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000046223"
+    },
+    {
+        "NAZWA": "EKO PROGRAM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W KĘTACH W UPADŁOŚCI w Kętach",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000442859"
+    },
+    {
+        "NAZWA": "Stańczyk Małgorzata",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000149560"
+    },
+    {
+        "NAZWA": "EPEF SPV 1 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWO- -AKCYJNA W UPADŁOŚCI w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000445600"
+    },
+    {
+        "NAZWA": "Koprowicz Anna",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "N EOTECH MŁAWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W UPADŁOŚCI w Tułowicach",
+        "PESEL": "XD",
+        "NIP": "5691768573",
+        "REGON": "140136857",
+        "KRS": "0000236086"
+    },
+    {
+        "NAZWA": "METEOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W UPADŁOŚCI w Szczecinie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000394034"
+    },
+    {
+        "NAZWA": "N ORD INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W UPADŁOŚCI w Pruszczu Gdańskim",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000472644"
+    },
+    {
+        "NAZWA": "POSSO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W UPADŁOŚCI w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000702810"
+    },
+    {
+        "NAZWA": "KAPENA SPÓŁKA AKCYJNA W UPADŁOŚCI we Włynkówku",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000072835"
+    },
+    {
+        "NAZWA": "Biegun Mirosław",
+        "PESEL": "60012108794",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Bińkowski Tomasz",
+        "PESEL": "86022708858",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Bogusławska Ewa",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Bubans Janusz",
+        "PESEL": "62052409619",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Czeszczewik Agnieszka",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Dawidowicz Anna",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Durski Paweł",
+        "PESEL": "74112106532",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Gaida Paweł",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Gamzała Janusz Adam",
+        "PESEL": "71021510535",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Głowacka-Olas Irena",
+        "PESEL": "47101905449",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Grzejszczak Marcin",
+        "PESEL": "79112007876",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Horbacz Grażyna",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Karpiński Rafał",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Koźlakowski Krzysztof",
+        "PESEL": "87071805930",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Kubów Paweł",
+        "PESEL": "79040603876",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Kurpiński Henryk",
+        "PESEL": "48032207370",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Leboda Elżbieta",
+        "PESEL": "69072304540",
+        "NIP": "5861207159",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Misińska Monika",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Owczarek Wioletta",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Palinkiewicz Paulina",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Pasztor Ewelina",
+        "PESEL": "77073006422",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Wnioskodawca Płotka Jadwiga",
+        "PESEL": "51040508467",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Ryncewicz Jolanta",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Sobolewski Łukasz Piotr",
+        "PESEL": "83042709416",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Sonntag Jolanta",
+        "PESEL": "56101715303",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000030330"
+    },
+    {
+        "NAZWA": "Szalonek Barbara",
+        "PESEL": "62110402187",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Tokarski Stanisław",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Łochyńska Julita",
+        "PESEL": "91031708564",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "Gużewski Tomasz",
+        "PESEL": "86051006295",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "BENZOL A KOSZUTSKI I WSPÓLNICY SPÓŁKA JAWNA w Olsztynie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000005610"
+    },
+    {
+        "NAZWA": "MITAX TUREK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "7811878906",
+        "REGON": "302139282",
+        "KRS": "0000424196"
+    },
+    {
+        "NAZWA": "THE NEW EARTH w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "9552282314",
+        "REGON": "320801821",
+        "KRS": "0000350616"
+    },
+    {
+        "NAZWA": "TRADEROL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Wejherowie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000107571"
+    },
+    {
+        "NAZWA": "WRIGHTSON URQUHART SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "013122894",
+        "KRS": "0000016385"
+    },
+    {
+        "NAZWA": "ARYDON RESERCH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Toruniu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000893632"
+    },
+    {
+        "NAZWA": "AGRO TRADE AP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Kotlinie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000838075"
+    },
+    {
+        "NAZWA": "AKADO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Koszalinie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "381141633",
+        "KRS": "0000746740"
+    },
+    {
+        "NAZWA": "BRRB SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Lednogórze",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000833320"
+    },
+    {
+        "NAZWA": "B USINESS EMPIRE L & L SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Koziegłowach",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000364162"
+    },
+    {
+        "NAZWA": "CATERING GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Redzie",
+        "PESEL": "XD",
+        "NIP": "5882465777",
+        "REGON": "388147047",
+        "KRS": "0000882912"
+    },
+    {
+        "NAZWA": "CELESTE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Prudniku",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000080181"
+    },
+    {
+        "NAZWA": "CLEVER TREE w Bojanie",
+        "PESEL": "XD",
+        "NIP": "9571130367",
+        "REGON": "388017942",
+        "KRS": "0000880187"
+    },
+    {
+        "NAZWA": "COFFE TEA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Chorzowie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000564038"
+    },
+    {
+        "NAZWA": "DAGNA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000363282"
+    },
+    {
+        "NAZWA": "DAMSCO INTERNATIONAL TRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Białymstoku",
+        "PESEL": "XD",
+        "NIP": "5423324787",
+        "REGON": "380980923",
+        "KRS": "0000744976"
+    },
+    {
+        "NAZWA": "DERA INVEST SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Gdańsku",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000864418"
+    },
+    {
+        "NAZWA": "DOGANLAR ZAMANY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Katowicach",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000637501"
+    },
+    {
+        "NAZWA": "DOT ENERGY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Skórczu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000870051"
+    },
+    {
+        "NAZWA": "DPD INVEST SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA w Gowarzewie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000584215"
+    },
+    {
+        "NAZWA": "EN-TOUR BUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Darłowie",
+        "PESEL": "XD",
+        "NIP": "4990689898",
+        "REGON": "521557179",
+        "KRS": "0000962412"
+    },
+    {
+        "NAZWA": "EKONET POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Gdańsku",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000848538"
+    },
+    {
+        "NAZWA": "ELMIXPOL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000936855"
+    },
+    {
+        "NAZWA": "ESSON POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000587725"
+    },
+    {
+        "NAZWA": "EUROPLUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Słubicach",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000546399"
+    },
+    {
+        "NAZWA": "EUROSERVICE POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000401390"
+    },
+    {
+        "NAZWA": "F 100 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Gdańsku",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000872951"
+    },
+    {
+        "NAZWA": "FAIRLIGHT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000543634"
+    },
+    {
+        "NAZWA": "FAST GP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000913991"
+    },
+    {
+        "NAZWA": "FIK GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Katowicach",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000651885"
+    },
+    {
+        "NAZWA": "FLEX SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Białymstoku",
+        "PESEL": "XD",
+        "NIP": "9662098959",
+        "REGON": "362234690",
+        "KRS": "0000571009"
+    },
+    {
+        "NAZWA": "FUNDACJA NA RZECZ PRAWA w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000776879"
+    },
+    {
+        "NAZWA": "GMG PLUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Gdańsku",
+        "PESEL": "XD",
+        "NIP": "5842792547",
+        "REGON": "385838756",
+        "KRS": "0000834572"
+    },
+    {
+        "NAZWA": "GMINNA SPÓŁDZIELNIA SAMOPOMOC CHŁOPSKA W JASIENIU w Jasieniu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000188276"
+    },
+    {
+        "NAZWA": "GRAFEN TRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000603490"
+    },
+    {
+        "NAZWA": "HESPERYDA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Katowicach",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000668912"
+    },
+    {
+        "NAZWA": "HILT KAPTUR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "9721280595",
+        "REGON": "368666403",
+        "KRS": "0000702362"
+    },
+    {
+        "NAZWA": "H OME AND BUSINESS ART DESIGN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "7792512669",
+        "REGON": "385323087",
+        "KRS": "0000822968"
+    },
+    {
+        "NAZWA": "HYUNDA ELEVATOR CO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000610708"
+    },
+    {
+        "NAZWA": "INTER SILVA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Krasnem",
+        "PESEL": "XD",
+        "NIP": "7611556569",
+        "REGON": "XD",
+        "KRS": "0000455763"
+    },
+    {
+        "NAZWA": "IT CONSOLIDATORS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "7792472272",
+        "REGON": "368577332",
+        "KRS": "0000700376"
+    },
+    {
+        "NAZWA": "JPM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Toruniu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000898701"
+    },
+    {
+        "NAZWA": "J ARMARK HUBERT HANUS I MARIAN WOJTOWICZ SPÓŁKA JAWNA W LIKWIDACJI w Kobylicach",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000059808"
+    },
+    {
+        "NAZWA": "KM-BENZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Czerninie",
+        "PESEL": "XD",
+        "NIP": "6692521332",
+        "REGON": "321506834",
+        "KRS": "0000506269"
+    },
+    {
+        "NAZWA": "JMK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Rokszycach",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000651981"
+    },
+    {
+        "NAZWA": "KKPP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Gdyni",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000775932"
+    },
+    {
+        "NAZWA": "KOCHANEKEU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "9721305711",
+        "REGON": "385246464",
+        "KRS": "0000821568"
+    },
+    {
+        "NAZWA": "KONEK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Białymstoku",
+        "PESEL": "XD",
+        "NIP": "9662126897",
+        "REGON": "382301062",
+        "KRS": "0000766416"
+    },
+    {
+        "NAZWA": "KR TRANSPORT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000483457"
+    },
+    {
+        "NAZWA": "KS SERVICES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Ostrołęce",
+        "PESEL": "XD",
+        "NIP": "7582368019",
+        "REGON": "381298903",
+        "KRS": "0000748874"
+    },
+    {
+        "NAZWA": "KUKS-BUGS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000709497"
+    },
+    {
+        "NAZWA": "LAMINEX-COMPOZYT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Sęczkowie",
+        "PESEL": "XD",
+        "NIP": "4990647055",
+        "REGON": "321257704",
+        "KRS": "0000429052"
+    },
+    {
+        "NAZWA": "MADINA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Gdańsku",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000864271"
+    },
+    {
+        "NAZWA": "LIP INVEST SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "7831766205",
+        "REGON": "368545036",
+        "KRS": "0000699982"
+    },
+    {
+        "NAZWA": "LJ ORKAN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Czeladzi",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000493985"
+    },
+    {
+        "NAZWA": "LOOK-ART SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Częstochowie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000501300"
+    },
+    {
+        "NAZWA": "MAGIC COLOURS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ we Włocławku",
+        "PESEL": "XD",
+        "NIP": "8883127400",
+        "REGON": "365904575",
+        "KRS": "0000648135"
+    },
+    {
+        "NAZWA": "MAXANT DYSTRYBUCJA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000610822"
+    },
+    {
+        "NAZWA": "ML RUMIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA w Rumi",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000797750"
+    },
+    {
+        "NAZWA": "OLGEEK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Częstochowie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000596364"
+    },
+    {
+        "NAZWA": "O PTIMAL-OIL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Ostrowie Wielkopolskim",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000267191"
+    },
+    {
+        "NAZWA": "PELLOWSKI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Pruszczu Gdańskim",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000864391"
+    },
+    {
+        "NAZWA": "POLLOS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Borówcu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000861662"
+    },
+    {
+        "NAZWA": "QIDA KAROLINA HOŁYSZ SPÓŁKA KOMANDYTOWA w Kołobrzegu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000600211"
+    },
+    {
+        "NAZWA": "QUEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000699532"
+    },
+    {
+        "NAZWA": "ROACH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Poznaniu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000860863"
+    },
+    {
+        "NAZWA": "SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Kaliszu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000424260"
+    },
+    {
+        "NAZWA": "ST NOVEO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Szczecinie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0001009061"
+    },
+    {
+        "NAZWA": "S TALEM HOT WORK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Dąbrowie Górniczej",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000643140"
+    },
+    {
+        "NAZWA": "STOWARZYSZENIE MERKURY w Połczynie-Zdroju",
+        "PESEL": "XD",
+        "NIP": "6721813699",
+        "REGON": "331094298",
+        "KRS": "0000036055"
+    },
+    {
+        "NAZWA": "SUNLIGHTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Pszczynie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000449021"
+    },
+    {
+        "NAZWA": "TASK GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "5213104306",
+        "REGON": "016349055",
+        "KRS": "0000010199"
+    },
+    {
+        "NAZWA": "TOCOMA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "5213856638",
+        "REGON": "382582010",
+        "KRS": "0000771987"
+    },
+    {
+        "NAZWA": "TOWARZYSTWO SPORTOWE ODRA w Kędzierzynie-Koźlu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000088836"
+    },
+    {
+        "NAZWA": "TS INVESTOR CO POLAND BRANCH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Warszawie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000610827"
+    },
+    {
+        "NAZWA": "VALTRANS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Słubicach",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000548624"
+    },
+    {
+        "NAZWA": "VIRALAIT GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Sosnowcu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000644525"
+    },
+    {
+        "NAZWA": "VIVA CLUB POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Białymstoku",
+        "PESEL": "XD",
+        "NIP": "9660075581",
+        "REGON": "050410957",
+        "KRS": "0000205841"
+    },
+    {
+        "NAZWA": "W ALLST AGENCJA REKLAMY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Białymstoku",
+        "PESEL": "XD",
+        "NIP": "5423199684",
+        "REGON": "200428335",
+        "KRS": "0000381335"
+    },
+    {
+        "NAZWA": "N OWOCZESNE TECHNOLOGIE GAZOWE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Białogardzie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "321559285",
+        "KRS": "0000520587"
+    },
+    {
+        "NAZWA": "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWO-PRODUKCYJNE ALIBABA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Chorzowie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000078399"
+    },
+    {
+        "NAZWA": "J anicki Dariusz prowadzący działalność gospodarczą pod nazwą Gospodarstwo Rolne Dariusz Janicki w Chludowie",
+        "PESEL": "57021104112",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    },
+    {
+        "NAZWA": "RAFAKO SPÓŁKA AKCYJNA w Raciborzu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000034143"
+    },
+    {
+        "NAZWA": "W IELKOPOLSKIE BROWARY REGIONALNE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Niechanowie",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000524408"
+    },
+    {
+        "NAZWA": "JAFRA CONNECT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Dobrodzieniu",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "0000461128"
+    },
+    {
+        "NAZWA": "Jeziorski Paweł prowadzący działalność gospodarczą pod nazwą GÓRBEH w Jaworze",
+        "PESEL": "XD",
+        "NIP": "XD",
+        "REGON": "XD",
+        "KRS": "XD"
+    }
+]
